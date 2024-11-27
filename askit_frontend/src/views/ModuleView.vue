@@ -9,7 +9,7 @@
                         Advanced Search
                     </a>
                     <a :href="`/ask/${$route.params.mod}`"
-                       class=" transition whitespace-nowrap shadow-[3px_3px_0px_0px_#000000] dark:shadow-[3px_3px_0px_0px_#ffffff] rounded-lg bg-blue-600 px-4 py-2 m-1 text-sm font-medium text-white hover:bg-blue-500 focus:outline-none focus:ring-4 focus:ring-pink-400">
+                       class=" transition whitespace-nowrap shadow-[3px_3px_0px_0px_#000000] dark:shadow-[3px_3px_0px_0px_#ffffff] rounded-lg bg-blue-500 px-4 py-2 m-1 text-sm font-medium text-white hover:bg-blue-400 focus:outline-none focus:ring-4 focus:ring-pink-400">
                         Ask Question
                     </a>
                 </div>
